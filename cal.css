@@ -1,0 +1,88 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px 0;
+    font-size: 2.5rem;
+    color: #fff;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+.container {
+    background: #222;
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border: 5px solid white; 
+}
+
+
+.inputs .input {
+    width: 90%;
+    height: 50px;
+    font-size: 1.5rem;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    text-align: right;
+    background: #333;
+    color: white;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Buttons */
+button.bttn {
+    width: 65px;
+    height: 65px;
+    margin: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #444, #222);
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button.bttn:hover {
+    background: linear-gradient(to bottom, #666, #444);
+    transform: scale(1.1);
+}
+
+button.bttn:active {
+    background: #000;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+button.bttn[style*="background-color"] {
+    color: black !important;
+    box-shadow: 0 4px 6px rgba(0, 255, 0, 0.5);
+}
+
+button.bttn[style*="background-color"]:hover {
+    color: white !important;
+}
+
+
+.row,
+.row2,
+.row3,
+.row4 {
+    display: flex;
+    justify-content: center;
+}
