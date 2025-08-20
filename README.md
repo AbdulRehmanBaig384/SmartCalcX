@@ -25,13 +25,6 @@ CSS3 → Styling and layout
 JavaScript (ES6) → Logic and functionality
 
 
-
-(Add your screenshot here)
-
-📱 Mobile View
-
-(Add your screenshot here)
-
 📂 Project Structure
 awesome-calculator/
 │── index.html        # Main HTML file  
