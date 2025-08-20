@@ -44,7 +44,7 @@ Open index.html in your browser
 Start calculating 🧮
 
 🌍 Live Demo
-
+https://simplecalculator234.netlify.app/
 
 🤝 Contributing
 
