@@ -24,8 +24,7 @@ CSS3 → Styling and layout
 
 JavaScript (ES6) → Logic and functionality
 
-📸 Screenshots
-💻 Desktop View
+
 
 (Add your screenshot here)
 
