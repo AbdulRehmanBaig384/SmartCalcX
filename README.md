@@ -1,4 +1,5 @@
-<img width="1894" height="893" alt="Arithematic Calculator using Html CsS3 and Javascriptt (1)" src="https://github.com/user-attachments/assets/d5742eef-d80e-4f2f-a47e-5fc14fd0f3e8" />
+<img width="1887" height="894" alt="image" src="https://github.com/user-attachments/assets/8d0dcd1e-1b0f-480b-b452-fa5ad522b61a" />
+
 <h1>🧮 SmartCalcx Calculator </h1>
 
 A simple yet beautiful and responsive Calculator built using HTML, CSS, and JavaScript.
@@ -27,17 +28,16 @@ JavaScript (ES6) → Logic and functionality
 
 📂 Project Structure
 awesome-calculator/
-│── index.html        # Main HTML file  
-│── style.css         # CSS styling  
-│── script.js         # JavaScript logic  
+│── cal.html        # Main HTML file  
+│── cal.css         # CSS styling  
+│── cal.js         # JavaScript logic  
 │── README.md         # Documentation  
 
 ⚡ How to Run
 
 Clone the repository
 
-git clone https://github.com/your-username/awesome-calculator.git
-
+git clone https://github.com/AbdulRehmanBaig384/SmartCalcX
 
 Open index.html in your browser
 
@@ -45,8 +45,6 @@ Start calculating 🧮
 
 🌍 Live Demo
 
-👉 Click Here to Try the Calculator
- (add your deployed link here)
 
 🤝 Contributing
 
