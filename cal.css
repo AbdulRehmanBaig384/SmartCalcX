@@ -49,32 +49,23 @@ button.bttn {
     cursor: pointer;
     transition: all 0.3s ease;
 }
-
 button.bttn:hover {
     background: linear-gradient(to bottom, #666, #444);
     transform: scale(1.1);
 }
-
 button.bttn:active {
     background: #000;
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-
 button.bttn[style*="background-color"] {
     color: black !important;
     box-shadow: 0 4px 6px rgba(0, 255, 0, 0.5);
 }
-
 button.bttn[style*="background-color"]:hover {
     color: white !important;
 }
-
-
-.row,
-.row2,
-.row3,
-.row4 {
+.row,.row2,.row3,.row4 {
     display: flex;
     justify-content: center;
 }
