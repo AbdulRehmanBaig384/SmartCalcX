@@ -12,8 +12,6 @@ h1 {
     color: #fff;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
-
-
 .container {
     background: #222;
     margin: auto;
@@ -24,8 +22,6 @@ h1 {
     text-align: center;
     border: 5px solid white; 
 }
-
-
 .inputs .input {
     width: 90%;
     height: 50px;
@@ -39,8 +35,6 @@ h1 {
     color: white;
     box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.5);
 }
-
-/* Buttons */
 button.bttn {
     width: 65px;
     height: 65px;
